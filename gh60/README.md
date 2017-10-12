@@ -1,10 +1,10 @@
 # Layers
 
 ### macOS
-![macOS Layer](.github/macOS.png)
+![macOS Layer](../.github/macOS.png)
 
 ### fn
-![fn Layer](.github/fn.png)
+![fn Layer](../.github/fn.png)
 
 ### Windows
-![win Layer](.github/win.png)
+![win Layer](../.github/win.png)
