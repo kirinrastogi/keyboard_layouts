@@ -1,0 +1,3 @@
+[submodule "zeal60/qmk_firmware"]
+	path = zeal60/qmk_firmware
+	url = git@github.com:kirinrastogi/qmk_firmware.git
