@@ -13,4 +13,5 @@ Use EasyAVR [here](https://github.com/dhowland/EasyAVR)
 Setup keymap with [https://config.qmk.fm](QMK configurator)
  * Compile
  * Download firmware
+ 
 Flash with [QMK toolbox](https://qmk.fm/toolbox/)
